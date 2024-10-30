@@ -134,7 +134,7 @@ Your referral link is:
   const keyboard = {
     inline_keyboard: [
       [
-        { text: 'Join Community 🧑‍💻', url: 'https://t.me/SolidityMasters' }
+        { text: 'Join Community 🧑‍💻', url: 'https://t.me/+ZbuZSPIGmbNlYmY8' }
       ],
       [
         { text: 'Start Mining', web_app: { url: 'https://ton-mining-6vsv.onrender.com/' } }
